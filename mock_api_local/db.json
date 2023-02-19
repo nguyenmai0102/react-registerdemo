@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "email": "mai1120@gmail.com",
+      "password": "$2a$10$OstgLj7kbWfmMXdQV6Uiz.vhgJvyb14XVlHXeMAFMqwAStUoUlaES",
+      "fullname": "mai thanh duong",
+      "id": 1
+    },
+    {
+      "email": "mai11202@gmail.com",
+      "password": "$2a$10$kCuzVyxVNN2fjUWNyl8IFOPIiHM9IKJpssFDyoAxsCEw7KR.hMKKO",
+      "fullname": "mai thanh duong",
+      "id": 2
+    },
+    {
+      "email": "mai112023@gmail.com",
+      "password": "$2a$10$KRDULzS1EAk7dntn7E3pRO5Cal3DQERc03ZWjhDINGZZ/bHEho2cu",
+      "fullname": "mai thanh duong",
+      "id": 3
+    },
+    {
+      "email": "mai1120235@gmail.com",
+      "password": "$2a$10$smzcwxLYyLwMOmvP7Pi4B.WkLetbB84E689BtKRyfRFrJz4JhJP2S",
+      "fullname": "mai thanh duong",
+      "id": 4
+    },
+    {
+      "email": "mai11202357@gmail.com",
+      "password": "$2a$10$7d5GxVW3S0ZdJhFyafePmOsfiFG2/nEpLdMkxc81Re5oU.Pc6gbIa",
+      "fullname": "mai thanh duong",
+      "id": 5
+    },
+    {
+      "email": "nguyenmai@gmail.com",
+      "password": "$2a$10$shCR4mqnmwe8G.Q15Wsy6uthpAyJq/nA/spI16QtIRduoFB9CCMm.",
+      "fullName": "Nguyễn Mai",
+      "id": 6
+    }
+  ],
+  "students": [
+    {
+      "studentId": "SV001",
+      "studentname": "Nguyen Van A",
+      "age": 20,
+      "status": "true"
+    },
+    {
+      "studentId": "SV002",
+      "studentname": "Nguyen Van B",
+      "age": 22,
+      "status": "false"
+    }
+  ]
+}
